@@ -37,3 +37,32 @@ WHERE
 GROUP BY skills.skill_id
 ORDER BY skills_count DESC
 LIMIT 5
+
+/*
+
+Results : 
+
+[
+  {
+    "skills": "sql",
+    "skills_count": "7291"
+  },
+  {
+    "skills": "excel",
+    "skills_count": "4611"
+  },
+  {
+    "skills": "python",
+    "skills_count": "4330"
+  },
+  {
+    "skills": "tableau",
+    "skills_count": "3745"
+  },
+  {
+    "skills": "power bi",
+    "skills_count": "2609"
+  }
+]
+
+*/

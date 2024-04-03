@@ -61,6 +61,140 @@ WHERE
 GROUP BY skills
 HAVING COUNT(skills_dim.skill_id) > 10
 ORDER BY 
-    average_salary DESC,
-    skills_count DESC
+    skills_count DESC,
+    average_salary DESC
 LIMIT 25;
+
+
+/* 
+
+Results : 
+
+[
+  {
+    "skills": "go",
+    "skills_count": "27",
+    "average_salary": "115320"
+  },
+  {
+    "skills": "confluence",
+    "skills_count": "11",
+    "average_salary": "114210"
+  },
+  {
+    "skills": "hadoop",
+    "skills_count": "22",
+    "average_salary": "113193"
+  },
+  {
+    "skills": "snowflake",
+    "skills_count": "37",
+    "average_salary": "112948"
+  },
+  {
+    "skills": "azure",
+    "skills_count": "34",
+    "average_salary": "111225"
+  },
+  {
+    "skills": "bigquery",
+    "skills_count": "13",
+    "average_salary": "109654"
+  },
+  {
+    "skills": "aws",
+    "skills_count": "32",
+    "average_salary": "108317"
+  },
+  {
+    "skills": "java",
+    "skills_count": "17",
+    "average_salary": "106906"
+  },
+  {
+    "skills": "ssis",
+    "skills_count": "12",
+    "average_salary": "106683"
+  },
+  {
+    "skills": "jira",
+    "skills_count": "20",
+    "average_salary": "104918"
+  },
+  {
+    "skills": "oracle",
+    "skills_count": "37",
+    "average_salary": "104534"
+  },
+  {
+    "skills": "looker",
+    "skills_count": "49",
+    "average_salary": "103795"
+  },
+  {
+    "skills": "nosql",
+    "skills_count": "13",
+    "average_salary": "101414"
+  },
+  {
+    "skills": "python",
+    "skills_count": "236",
+    "average_salary": "101397"
+  },
+  {
+    "skills": "r",
+    "skills_count": "148",
+    "average_salary": "100499"
+  },
+  {
+    "skills": "redshift",
+    "skills_count": "16",
+    "average_salary": "99936"
+  },
+  {
+    "skills": "qlik",
+    "skills_count": "13",
+    "average_salary": "99631"
+  },
+  {
+    "skills": "tableau",
+    "skills_count": "230",
+    "average_salary": "99288"
+  },
+  {
+    "skills": "ssrs",
+    "skills_count": "14",
+    "average_salary": "99171"
+  },
+  {
+    "skills": "spark",
+    "skills_count": "13",
+    "average_salary": "99077"
+  },
+  {
+    "skills": "c++",
+    "skills_count": "11",
+    "average_salary": "98958"
+  },
+  {
+    "skills": "sas",
+    "skills_count": "126",
+    "average_salary": "98902"
+  },
+  {
+    "skills": "sql server",
+    "skills_count": "35",
+    "average_salary": "97786"
+  },
+  {
+    "skills": "javascript",
+    "skills_count": "20",
+    "average_salary": "97587"
+  },
+  {
+    "skills": "power bi",
+    "skills_count": "110",
+    "average_salary": "97431"
+  }
+]
+*/

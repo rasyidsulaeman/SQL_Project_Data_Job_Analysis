@@ -1,0 +1,127 @@
+[
+  {
+    "skills": "sql",
+    "skills_count": "398",
+    "average_salary": "97237"
+  },
+  {
+    "skills": "excel",
+    "skills_count": "256",
+    "average_salary": "87288"
+  },
+  {
+    "skills": "python",
+    "skills_count": "236",
+    "average_salary": "101397"
+  },
+  {
+    "skills": "tableau",
+    "skills_count": "230",
+    "average_salary": "99288"
+  },
+  {
+    "skills": "r",
+    "skills_count": "148",
+    "average_salary": "100499"
+  },
+  {
+    "skills": "sas",
+    "skills_count": "126",
+    "average_salary": "98902"
+  },
+  {
+    "skills": "power bi",
+    "skills_count": "110",
+    "average_salary": "97431"
+  },
+  {
+    "skills": "powerpoint",
+    "skills_count": "58",
+    "average_salary": "88701"
+  },
+  {
+    "skills": "looker",
+    "skills_count": "49",
+    "average_salary": "103795"
+  },
+  {
+    "skills": "word",
+    "skills_count": "48",
+    "average_salary": "82576"
+  },
+  {
+    "skills": "snowflake",
+    "skills_count": "37",
+    "average_salary": "112948"
+  },
+  {
+    "skills": "oracle",
+    "skills_count": "37",
+    "average_salary": "104534"
+  },
+  {
+    "skills": "sql server",
+    "skills_count": "35",
+    "average_salary": "97786"
+  },
+  {
+    "skills": "azure",
+    "skills_count": "34",
+    "average_salary": "111225"
+  },
+  {
+    "skills": "aws",
+    "skills_count": "32",
+    "average_salary": "108317"
+  },
+  {
+    "skills": "sheets",
+    "skills_count": "32",
+    "average_salary": "86088"
+  },
+  {
+    "skills": "flow",
+    "skills_count": "28",
+    "average_salary": "97200"
+  },
+  {
+    "skills": "go",
+    "skills_count": "27",
+    "average_salary": "115320"
+  },
+  {
+    "skills": "spss",
+    "skills_count": "24",
+    "average_salary": "92170"
+  },
+  {
+    "skills": "vba",
+    "skills_count": "24",
+    "average_salary": "88783"
+  },
+  {
+    "skills": "hadoop",
+    "skills_count": "22",
+    "average_salary": "113193"
+  },
+  {
+    "skills": "jira",
+    "skills_count": "20",
+    "average_salary": "104918"
+  },
+  {
+    "skills": "javascript",
+    "skills_count": "20",
+    "average_salary": "97587"
+  },
+  {
+    "skills": "sharepoint",
+    "skills_count": "18",
+    "average_salary": "81634"
+  },
+  {
+    "skills": "java",
+    "skills_count": "17",
+    "average_salary": "106906"
+  }
+]
