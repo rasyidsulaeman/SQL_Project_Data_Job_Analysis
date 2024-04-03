@@ -97,6 +97,7 @@ Here are the breakdown of the total skills mention in the job postings for the t
 - The other skills like **R**, **snowflake**, **pandas**, **excel**, etc. show varying degrees of demand.
 
 ![top skills for data analyst job](/assets/2_top_paying_jobs_skills.png)
+
 (*Horizontal barplot visualizing count of skills for the top data analyst job. The plot generated using python in jupyter notebook*)
 
 ### 3. In-Demand Skills for Data Analyst
@@ -129,6 +130,7 @@ Here are the breakdown of the top 5 demanded skills for Data Analyst job in 2023
 
 
 ![in demand skills](/assets/3_top_demanded_skills.png)
+
 (*Barplot visualizing the top 5 in-demand skills for data analyst. The plot generated using python in jupyter notebook*)
 
 ### 4. Top Paying Skills
